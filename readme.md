@@ -8,12 +8,11 @@ This repo is shared as a place to collect links and notes, just in case it is us
 
 ## links
 
-| link                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------- |
-| [the course](https://www.coursera.org/learn/machine-learning)                                                                      |
-| [course wiki](https://share.coursera.org/wiki/index.php?title=ML:Main)                                                             |
-| [git repo](https://github.com/mrseanryan/coursera-ml-public)                                                                       |
-| [a students summary](http://www.luckycallor.com/index.php/2015/12/22/summary-of-course-machine-learning-by-andrew-ng-on-coursera/) |
+| link                                                                                           |
+| ---------------------------------------------------------------------------------------------- |
+| [the course](https://www.coursera.org/learn/machine-learning)                                  |
+| [this git repo](https://github.com/mrseanryan/coursera-ml-public)                              |
+| [a students summary](https://snaildove.github.io/2018/01/20/summary_of_ml-coursera-andrew-ng/) |
 
 ## setup
 
