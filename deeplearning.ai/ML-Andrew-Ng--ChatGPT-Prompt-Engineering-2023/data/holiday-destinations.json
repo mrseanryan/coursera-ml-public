@@ -1,0 +1,49 @@
+{
+  "destinations": [
+    {
+      "country": "Switzerland",
+      "month": "July",
+      "region": "Swiss Alps",
+      "closest_airport": "Zurich Airport",
+      "average_temperature": "20\u00b0C",
+      "summary": "Switzerland offers a wide range of outdoor sports such as hiking, mountain biking, and paragliding. The Swiss Alps provide breathtaking landscapes with snow-capped peaks and crystal-clear lakes.",
+      "public_image_url": "https://example.com/images/switzerland.jpg"
+    },
+    {
+      "country": "Norway",
+      "month": "August",
+      "region": "Fjords",
+      "closest_airport": "Oslo Airport",
+      "average_temperature": "18\u00b0C",
+      "summary": "Norway's fjords offer a unique outdoor experience with activities like kayaking, fishing, and hiking. The stunning landscapes of steep cliffs and deep blue waters create a picturesque setting.",
+      "public_image_url": "https://example.com/images/norway.jpg"
+    },
+    {
+      "country": "Austria",
+      "month": "June",
+      "region": "Tyrol",
+      "closest_airport": "Innsbruck Airport",
+      "average_temperature": "22\u00b0C",
+      "summary": "Austria's Tyrol region is perfect for outdoor enthusiasts with activities like skiing, mountain climbing, and cycling. The picturesque landscapes of the Austrian Alps provide a stunning backdrop.",
+      "public_image_url": "https://example.com/images/austria.jpg"
+    },
+    {
+      "country": "Italy",
+      "month": "September",
+      "region": "Tuscany",
+      "closest_airport": "Florence Airport",
+      "average_temperature": "25\u00b0C",
+      "summary": "Tuscany in Italy offers a mix of outdoor activities like hiking, cycling, and horseback riding. The region is known for its beautiful rolling hills, vineyards, and historic towns.",
+      "public_image_url": "https://example.com/images/italy.jpg"
+    },
+    {
+      "country": "Spain",
+      "month": "May",
+      "region": "Costa Brava",
+      "closest_airport": "Barcelona Airport",
+      "average_temperature": "23\u00b0C",
+      "summary": "Spain's Costa Brava is a popular destination for outdoor sports like snorkeling, kayaking, and hiking. The region boasts stunning coastal landscapes with rugged cliffs and hidden coves.",
+      "public_image_url": "https://example.com/images/spain.jpg"
+    }
+  ]
+}

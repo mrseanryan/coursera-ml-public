@@ -1,0 +1,151 @@
+{
+  "similar_books": [
+    {
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "year": 1985,
+      "genre": "Science Fiction",
+      "summary": "In a future where humanity is at war with an alien race, a young boy named Ender Wiggin is trained to become a military genius and save the world."
+    },
+    {
+      "title": "Hyperion",
+      "author": "Dan Simmons",
+      "year": 1989,
+      "genre": "Science Fiction",
+      "summary": "A group of pilgrims travels to the mysterious planet of Hyperion, where they encounter strange creatures and uncover ancient secrets."
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year": 1965,
+      "genre": "Science Fiction",
+      "summary": "Set in a distant future, the story follows Paul Atreides as he becomes the messiah-like figure on the desert planet of Arrakis, also known as Dune."
+    },
+    {
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "year": 1984,
+      "genre": "Science Fiction",
+      "summary": "A washed-up computer hacker is hired for a dangerous mission that involves artificial intelligence, virtual reality, and corporate espionage."
+    },
+    {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "year": 1951,
+      "genre": "Science Fiction",
+      "summary": "The story follows the collapse of a galactic empire and the efforts of a group of scientists to preserve knowledge and rebuild civilization."
+    },
+    {
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "year": 1969,
+      "genre": "Science Fiction",
+      "summary": "A human envoy is sent to a planet called Gethen, where the inhabitants can change their gender at will, to negotiate an alliance."
+    },
+    {
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "year": 1992,
+      "genre": "Science Fiction",
+      "summary": "In a near-future world, a hacker and a pizza delivery driver team up to stop a dangerous computer virus that can infect people's minds."
+    },
+    {
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "year": 2011,
+      "genre": "Science Fiction",
+      "summary": "After being stranded alone on Mars, an astronaut must find a way to survive with limited resources until rescue is possible."
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "year": 1979,
+      "genre": "Science Fiction",
+      "summary": "A comedic science fiction series that follows the adventures of an ordinary human and his alien friend as they travel through space."
+    },
+    {
+      "title": "The Forever War",
+      "author": "Joe Haldeman",
+      "year": 1974,
+      "genre": "Science Fiction",
+      "summary": "A soldier is sent to fight in an interstellar war that spans centuries, while time dilation causes him to age much slower than people on Earth."
+    },
+    {
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "year": 1895,
+      "genre": "Science Fiction",
+      "summary": "A scientist invents a time machine and travels to the future, where he encounters two different species: the peaceful Eloi and the predatory Morlocks."
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "year": 2008,
+      "genre": "Young Adult, Science Fiction",
+      "summary": "In a dystopian future, teenagers are forced to participate in a televised fight to the death as a form of entertainment for the ruling elite."
+    },
+    {
+      "title": "The Maze Runner",
+      "author": "James Dashner",
+      "year": 2009,
+      "genre": "Young Adult, Science Fiction",
+      "summary": "A group of teenagers wakes up in a maze with no memory of their past, and must find a way to escape while facing deadly creatures."
+    },
+    {
+      "title": "The Expanse",
+      "author": "James S.A. Corey",
+      "year": 2011,
+      "genre": "Science Fiction",
+      "summary": "Set in a future where humanity has colonized the solar system, the story follows a detective and a spaceship crew as they uncover a conspiracy."
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "year": 1985,
+      "genre": "Dystopian, Science Fiction",
+      "summary": "In a totalitarian society, women are subjugated and used for reproductive purposes, as one woman rebels against the system."
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "year": 2006,
+      "genre": "Post-Apocalyptic, Science Fiction",
+      "summary": "A father and his young son journey through a post-apocalyptic wasteland, facing danger and despair as they search for a safe haven."
+    },
+    {
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "year": 1898,
+      "genre": "Science Fiction",
+      "summary": "Martians invade Earth, wreaking havoc and causing panic among the human population, as they try to survive the alien onslaught."
+    },
+    {
+      "title": "The Stand",
+      "author": "Stephen King",
+      "year": 1978,
+      "genre": "Post-Apocalyptic, Horror",
+      "summary": "After a deadly pandemic wipes out most of humanity, the survivors are drawn into a battle between good and evil in a world devastated by the plague."
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year": 1932,
+      "genre": "Dystopian, Science Fiction",
+      "summary": "In a future society where people are genetically engineered and conditioned for specific roles, a man challenges the system and seeks true individuality."
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Dystopian, Science Fiction",
+      "summary": "In a totalitarian society ruled by Big Brother, a man rebels against the oppressive regime and risks everything to preserve his freedom."
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "year": 1953,
+      "genre": "Dystopian, Science Fiction",
+      "summary": "In a future where books are banned and burned, a fireman begins to question his role in society and seeks to preserve knowledge."
+    }
+  ]
+}

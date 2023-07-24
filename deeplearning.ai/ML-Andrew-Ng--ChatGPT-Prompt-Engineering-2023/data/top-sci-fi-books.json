@@ -1,0 +1,354 @@
+{
+  "books": [
+    {
+      "book_id": 1,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "summary": "Set in the distant future, Dune follows the story of Paul Atreides as he becomes the messiah-like figure of a desert planet called Arrakis, where a valuable resource known as spice is found."
+    },
+    {
+      "book_id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian Fiction",
+      "summary": "In a totalitarian society, Winston Smith rebels against the oppressive regime led by Big Brother, questioning the government's control over information and individual freedom."
+    },
+    {
+      "book_id": 3,
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "genre": "Science Fiction",
+      "summary": "Spanning centuries, Foundation explores the collapse and rebirth of a galactic empire through the use of psychohistory, a mathematical science that predicts the behavior of large populations."
+    },
+    {
+      "book_id": 4,
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "genre": "Cyberpunk",
+      "summary": "Case, a washed-up computer hacker, is hired for one last job that involves artificial intelligence, virtual reality, and a powerful entity known as Wintermute."
+    },
+    {
+      "book_id": 5,
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "genre": "Science Fiction",
+      "summary": "Gifted child Ender Wiggin is recruited by the military to train in a battle school in space, where he must face a formidable alien race known as the Formics."
+    },
+    {
+      "book_id": 6,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian Fiction",
+      "summary": "In a future society where humans are genetically engineered and conditioned for specific roles, Bernard Marx questions the conformity and lack of individuality."
+    },
+    {
+      "book_id": 7,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "genre": "Science Fiction",
+      "summary": "Arthur Dent is whisked away from Earth just before its destruction and embarks on a comedic journey through space with his alien friend Ford Prefect."
+    },
+    {
+      "book_id": 8,
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "genre": "Cyberpunk",
+      "summary": "In a near-future world, Hiro Protagonist, a hacker and pizza delivery driver, uncovers a conspiracy involving a virtual reality drug called Snow Crash."
+    },
+    {
+      "book_id": 9,
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "genre": "Science Fiction",
+      "summary": "When Martians invade Earth, an unnamed narrator witnesses the destruction and chaos caused by the technologically advanced alien species."
+    },
+    {
+      "book_id": 10,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian Fiction",
+      "summary": "In a future society where books are banned and burned, Guy Montag, a fireman, questions his role and begins to rebel against the oppressive regime."
+    },
+    {
+      "book_id": 11,
+      "title": "Hyperion",
+      "author": "Dan Simmons",
+      "genre": "Science Fiction",
+      "summary": "A group of pilgrims travels to the mysterious planet of Hyperion, each with their own story and purpose, as they encounter enigmatic creatures known as the Shrike."
+    },
+    {
+      "book_id": 12,
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "genre": "Science Fiction",
+      "summary": "Genly Ai, an envoy from Earth, visits the planet of Gethen where the inhabitants have no fixed gender, leading to a thought-provoking exploration of sexuality and identity."
+    },
+    {
+      "book_id": 13,
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "genre": "Science Fiction",
+      "summary": "An inventor builds a time machine and travels to the future, witnessing the evolution of humanity and encountering two distinct species: the Eloi and the Morlocks."
+    },
+    {
+      "book_id": 14,
+      "title": "A Wrinkle in Time",
+      "author": "Madeleine L'Engle",
+      "genre": "Science Fiction",
+      "summary": "Meg Murry, her brother Charles Wallace, and their friend Calvin O'Keefe embark on a journey through space and time to rescue Meg's father from the clutches of an evil force."
+    },
+    {
+      "book_id": 15,
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "summary": "Stranded alone on Mars, astronaut Mark Watney must use his ingenuity to survive and find a way to communicate with Earth for a chance of rescue."
+    },
+    {
+      "book_id": 16,
+      "title": "Starship Troopers",
+      "author": "Robert A. Heinlein",
+      "genre": "Science Fiction",
+      "summary": "In a future where Earth is at war with insectoid aliens, Juan Rico joins the military and becomes a soldier in the interstellar conflict."
+    },
+    {
+      "book_id": 17,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian Fiction",
+      "summary": "In a dystopian society, Katniss Everdeen volunteers for the Hunger Games, a televised fight to the death, to protect her sister and challenge the oppressive regime."
+    },
+    {
+      "book_id": 18,
+      "title": "I, Robot",
+      "author": "Isaac Asimov",
+      "genre": "Science Fiction",
+      "summary": "A collection of interconnected stories exploring the relationship between humans and robots, delving into the ethical and moral implications of artificial intelligence."
+    },
+    {
+      "book_id": 19,
+      "title": "The Forever War",
+      "author": "Joe Haldeman",
+      "genre": "Science Fiction",
+      "summary": "William Mandella, a soldier fighting in an interstellar war against an alien species, experiences time dilation and finds himself aging at a different rate than Earth."
+    },
+    {
+      "book_id": 20,
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "genre": "Dystopian Fiction",
+      "summary": "In a totalitarian society, Offred is a handmaid assigned to bear children for the ruling class, as she navigates a world of oppression and rebellion."
+    },
+    {
+      "book_id": 21,
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "genre": "Science Fiction",
+      "summary": "In a post-apocalyptic world, bounty hunter Rick Deckard is tasked with hunting down rogue androids known as replicants, leading him to question his own humanity."
+    },
+    {
+      "book_id": 22,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-Apocalyptic Fiction",
+      "summary": "A father and his young son journey through a desolate and dangerous landscape, struggling to survive and maintain their humanity in a world ravaged by an unspecified catastrophe."
+    },
+    {
+      "book_id": 23,
+      "title": "Childhood's End",
+      "author": "Arthur C. Clarke",
+      "genre": "Science Fiction",
+      "summary": "Alien Overlords known as the Overlords arrive on Earth, bringing peace and prosperity, but at the cost of humanity's individuality and future evolution."
+    },
+    {
+      "book_id": 24,
+      "title": "The Stand",
+      "author": "Stephen King",
+      "genre": "Post-Apocalyptic Fiction",
+      "summary": "After a deadly pandemic wipes out most of the world's population, a group of survivors must confront both the physical and supernatural threats that arise in the aftermath."
+    },
+    {
+      "book_id": 25,
+      "title": "The Dispossessed",
+      "author": "Ursula K. Le Guin",
+      "genre": "Science Fiction",
+      "summary": "Shevek, a physicist from the anarchist society of Anarres, travels to the capitalist planet of Urras, leading to a clash of ideologies and a reflection on the nature of freedom."
+    },
+    {
+      "book_id": 26,
+      "title": "The Day of the Triffids",
+      "author": "John Wyndham",
+      "genre": "Science Fiction",
+      "summary": "After a meteor shower blinds most of humanity, aggressive plants known as triffids begin to take over, posing a threat to the remaining sighted survivors."
+    },
+    {
+      "book_id": 27,
+      "title": "The Time Traveler's Wife",
+      "author": "Audrey Niffenegger",
+      "genre": "Science Fiction",
+      "summary": "Henry, a time traveler, and his wife Clare navigate their complex relationship as they deal with the challenges and consequences of his involuntary time jumps."
+    },
+    {
+      "book_id": 28,
+      "title": "The Road to Dune",
+      "author": "Frank Herbert, Brian Herbert, Kevin J. Anderson",
+      "genre": "Science Fiction",
+      "summary": "A collection of short stories and essays related to the Dune series, providing additional insights into the world and characters created by Frank Herbert."
+    },
+    {
+      "book_id": 29,
+      "title": "The Invisible Man",
+      "author": "H.G. Wells",
+      "genre": "Science Fiction",
+      "summary": "A scientist discovers the secret of invisibility but struggles to control his newfound power, leading to a descent into madness and a reign of terror."
+    },
+    {
+      "book_id": 30,
+      "title": "The Maze Runner",
+      "author": "James Dashner",
+      "genre": "Science Fiction",
+      "summary": "Thomas wakes up in a maze with no memory of his past, joining a group of other teenagers known as Gladers as they try to escape the deadly labyrinth."
+    },
+    {
+      "book_id": 31,
+      "title": "The Giver",
+      "author": "Lois Lowry",
+      "genre": "Dystopian Fiction",
+      "summary": "In a seemingly utopian society, Jonas is chosen to receive memories of the past, discovering the dark secrets behind his community's perfect facade."
+    },
+    {
+      "book_id": 32,
+      "title": "The Andromeda Strain",
+      "author": "Michael Crichton",
+      "genre": "Science Fiction",
+      "summary": "A team of scientists investigates a deadly extraterrestrial microorganism that causes a small town's population to die off rapidly, racing against time to prevent a global pandemic."
+    },
+    {
+      "book_id": 33,
+      "title": "The Windup Girl",
+      "author": "Paolo Bacigalupi",
+      "genre": "Science Fiction",
+      "summary": "Set in a future where biotechnology is dominant, the story follows a genetically engineered woman known as a windup girl, caught in a web of political and corporate intrigue."
+    },
+    {
+      "book_id": 34,
+      "title": "The Forever War",
+      "author": "Dexter Filkins",
+      "genre": "Non-fiction",
+      "summary": "A journalist's account of the Iraq War, chronicling the experiences of soldiers and civilians caught in the conflict and the long-lasting impact on individuals and nations."
+    },
+    {
+      "book_id": 35,
+      "title": "The Diamond Age",
+      "author": "Neal Stephenson",
+      "genre": "Science Fiction",
+      "summary": "In a future world divided by social classes, a young girl named Nell receives a stolen interactive book that leads her on a journey of self-discovery and revolution."
+    },
+    {
+      "book_id": 36,
+      "title": "The Man in the High Castle",
+      "author": "Philip K. Dick",
+      "genre": "Science Fiction",
+      "summary": "In an alternate history where the Axis powers won World War II, the United States is divided between Nazi Germany and Imperial Japan, and a mysterious novel challenges the status quo."
+    },
+    {
+      "book_id": 37,
+      "title": "Red Mars",
+      "author": "Kim Stanley Robinson",
+      "genre": "Science Fiction",
+      "summary": "A group of scientists and engineers embark on a mission to colonize and terraform Mars, facing numerous challenges and conflicts as they shape the future of the planet."
+    },
+    {
+      "book_id": 38,
+      "title": "The City & the City",
+      "author": "China Mi\u00e9ville",
+      "genre": "Science Fiction",
+      "summary": "Inspector Tyador Borl\u00fa investigates a murder that spans two cities occupying the same physical space, but with strict rules of separation and a mysterious force known as Breach."
+    },
+    {
+      "book_id": 39,
+      "title": "The Lathe of Heaven",
+      "author": "Ursula K. Le Guin",
+      "genre": "Science Fiction",
+      "summary": "George Orr has the power to alter reality through his dreams, leading to a series of unintended and often disastrous consequences as his therapist tries to exploit this ability."
+    },
+    {
+      "book_id": 40,
+      "title": "The Three-Body Problem",
+      "author": "Liu Cixin",
+      "genre": "Science Fiction",
+      "summary": "When a secret military project on Earth makes contact with an alien civilization, humanity becomes embroiled in a struggle for survival against a powerful and enigmatic enemy."
+    },
+    {
+      "book_id": 41,
+      "title": "Altered Carbon",
+      "author": "Richard K. Morgan",
+      "genre": "Cyberpunk",
+      "summary": "In a future where consciousness can be transferred to different bodies, ex-Envoy Takeshi Kovacs is hired to solve the murder of a wealthy man, uncovering a conspiracy along the way."
+    },
+    {
+      "book_id": 42,
+      "title": "The Fifth Season",
+      "author": "N.K. Jemisin",
+      "genre": "Science Fiction",
+      "summary": "In a world plagued by catastrophic climate events known as Fifth Seasons, a woman named Essun embarks on a journey to find her missing daughter, uncovering the truth about her own powers."
+    },
+    {
+      "book_id": 43,
+      "title": "The Hyperion Cantos",
+      "author": "Dan Simmons",
+      "genre": "Science Fiction",
+      "summary": "A series of interconnected novels, Hyperion follows a group of pilgrims as they share their stories and confront the enigmatic Shrike, a time-traveling creature of immense power."
+    },
+    {
+      "book_id": 44,
+      "title": "The Quantum Thief",
+      "author": "Hannu Rajaniemi",
+      "genre": "Science Fiction",
+      "summary": "In a future where privacy is a commodity and minds can be uploaded and hacked, master thief Jean le Flambeur is caught in a game of cat and mouse with a powerful enemy."
+    },
+    {
+      "book_id": 45,
+      "title": "The Stars My Destination",
+      "author": "Alfred Bester",
+      "genre": "Science Fiction",
+      "summary": "Gully Foyle, a man left for dead in space, survives and seeks revenge against those who abandoned him, gaining the ability to teleport and becoming a force to be reckoned with."
+    },
+    {
+      "book_id": 46,
+      "title": "The Player of Games",
+      "author": "Iain M. Banks",
+      "genre": "Science Fiction",
+      "summary": "Jernau Morat Gurgeh, a master game player, is sent to the Empire of Azad to participate in a complex and dangerous game that holds political and cultural significance."
+    },
+    {
+      "book_id": 47,
+      "title": "The Road to Reality",
+      "author": "Roger Penrose",
+      "genre": "Non-fiction",
+      "summary": "A comprehensive exploration of the fundamental principles of physics and mathematics, delving into topics such as quantum mechanics, relativity, and the nature of the universe."
+    },
+    {
+      "book_id": 48,
+      "title": "The Wind's Twelve Quarters",
+      "author": "Ursula K. Le Guin",
+      "genre": "Science Fiction",
+      "summary": "A collection of short stories by Ursula K. Le Guin, showcasing her mastery of the genre and her ability to explore complex themes through diverse and imaginative narratives."
+    },
+    {
+      "book_id": 49,
+      "title": "The Demolished Man",
+      "author": "Alfred Bester",
+      "genre": "Science Fiction",
+      "summary": "In a future where telepathy is common, Ben Reich plans to commit a murder but must outwit the telepathic police force led by the relentless detective Lincoln Powell."
+    },
+    {
+      "book_id": 50,
+      "title": "The Diamond Age",
+      "author": "Neal Stephenson",
+      "genre": "Science Fiction",
+      "summary": "In a future world divided by social classes, a young girl named Nell receives a stolen interactive book that leads her on a journey of self-discovery and revolution."
+    }
+  ]
+}
